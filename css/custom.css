@@ -190,10 +190,13 @@ header {
   min-height: 740px;
 }
 
+.col-sm-7{
+
+}
 header.car_loan{
   background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
   background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("https://images7.alphacoders.com/548/548306.jpg"); 
   background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
   background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
 }
@@ -201,7 +204,7 @@ header.car_loan{
 header.home_loan{
   background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
   background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("https://images7.alphacoders.com/548/548306.jpg"); 
   background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
   background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
 }
