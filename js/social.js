@@ -9,5 +9,5 @@ btnSkype.addEventListener('click', button);
 btnInstagram.addEventListener('click', button);
 
 function button(){
-    alert("Aun no tenemos las redes sociales bro...");
+    alert("Aún no tenemos las redes sociales bro...");
 }
