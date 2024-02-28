@@ -13,6 +13,10 @@ body {
 .main {
   position: absolute;
   }
+
+  .main2 {
+    position: absolute;
+    }
   
 body {
   font-family: 'Poppins', sans-serif;
